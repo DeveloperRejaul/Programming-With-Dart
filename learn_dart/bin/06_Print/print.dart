@@ -1,3 +1,8 @@
 void main(List<String> args) {
-  print("hello world");
+  String firstName = "Rejaul";
+  String lastName = "karim";
+  bool isLogin = true;
+  // Enum acountType ={"free", };
+
+  print("My name is $firstName $lastName, He is login =  $isLogin ");
 }
